@@ -1,0 +1,17 @@
+{
+  "name": "Web UrLxyz",
+  "short_name": "UrLxyz",
+  "start_url": "https://www.urlxyz.com/?m=1",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#222",
+  "icons": [{
+    "src": "https://cdn.staticaly.com/gh/urlxyz/images/master/android-chrome-192x192.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/gh/urlxyz/images/master/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
